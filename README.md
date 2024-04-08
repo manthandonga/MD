@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="700" src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/5796273/og_image/optimized/code-sharing-angular-dart-flutter-bloc-fdde1ea49ed55f1ab00c61d9dabeb97c.png">
+<img align="center" alt="Coding" width="1000" src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/5796273/og_image/optimized/code-sharing-angular-dart-flutter-bloc-fdde1ea49ed55f1ab00c61d9dabeb97c.png">
 
 
 
